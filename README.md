@@ -18,7 +18,7 @@ I am interested to participate in projects, internships and any other opportunit
 - [X] Intro to GitHub  
 - [X] Communicating using Markdown   
 - [X] Create a Website/Profile   
-- [ ] Introduction to Command Line   
+- [X] Introduction to Command Line   
 - [ ] Continue developing Website!   
 
 
@@ -28,6 +28,6 @@ I am interested to participate in projects, internships and any other opportunit
 
 
 
-###### Website Trial 1    
+###### Website Trial 2: 10 November 2022    
 
 
