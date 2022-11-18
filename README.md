@@ -21,6 +21,8 @@ I am interested to participate in projects, internships and any other opportunit
 - [X] Introduction to Command Line   
 - [ ] Continue developing Website!   
 
+3) **G-Tech Mu-Learn**
+- [X] Create a Cat Photo App 
 
 
 
@@ -28,6 +30,6 @@ I am interested to participate in projects, internships and any other opportunit
 
 
 
-###### Website Trial 2: 10 November 2022    
+###### Website Trial 3: 18 November 2022    
 
 
